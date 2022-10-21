@@ -28,7 +28,7 @@ DEBUG = True
 APPEND_SLASH = True
 
 ALLOWED_HOSTS = ["127.0.0.1",
-"amazinprofone.herokuapp.com/",]
+"amazinprofone.herokuapp.com",]
 
 
 # Application definition
